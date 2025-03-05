@@ -1,5 +1,6 @@
 # NaniteInfoScreen
 Makes Nanite Control Facility Display Information On Screen.
+Показывает информацию из нанитки на дисплей
 
 # How to run?
 - EN
