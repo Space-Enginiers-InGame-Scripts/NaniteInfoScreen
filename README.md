@@ -14,6 +14,7 @@ Makes Nanite Control Facility Display Information On Screen.
 7. Start scrpt! (If anything errored, try to click on recompile and run several times)
 
 
+
 - RU
 1. Поставь `Nanite Control Facility`, `Программируемый блок` и любой `Дисплей` (TextSurface)
 2. Придумай уникальный ID для своей нанитки, например: `YAVIN1`. (Запомни его)
